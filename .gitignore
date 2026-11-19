@@ -1,0 +1,27 @@
+*.log
+*.DS_Store
+*.sw*
+*~
+*.backup
+*.deb
+node_modules
+npm-debug.log
+scripts/private
+scripts/lib/temp_query*
+scripts/output
+scripts/1
+scripts/lib/build
+scripts/lib/deploy
+scripts/lib/package.js
+test/lib/demo-test.backup
+test/lib/login_data.js
+test/mocha/lib/demo-test.backup
+test/shared/login_data.js
+
+# Added by Auto-Setup
+.env
+.env.*
+*.env
+dist/
+build/
+

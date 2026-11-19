@@ -1,0 +1,1 @@
+SELECT dropifexists('TRIGGER', 'apapplyTrigger');
